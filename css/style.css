@@ -58,14 +58,6 @@
 	color: #ffffff;
 }
 
-/* #list-part {
-	height: 560px;
-}
-
-#log-part {
-	height: 145px;
-} */
-
 .delete-btn {
 	margin: 7px;
 	position: relative;
@@ -138,7 +130,7 @@
 	display: inline-block;
 	font-size: 17px;
 	left: 50%; 
-	top: 890px;
+	top: 855px;
 	transform: translate(-50%, -50%);
 }
 
@@ -147,7 +139,7 @@
 	display: inline-block;
 	font-size: 13px;
 	left: 50%; 
-	top: 890px;
+	top: 858px;
 	transform: translate(-50%, -50%);
 }
 
