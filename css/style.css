@@ -126,7 +126,7 @@
 }
 
 .qouted {
-	position: fixed;
+	position: absolute;
 	display: inline-block;
 	font-size: 17px;
 	left: 50%; 
@@ -135,7 +135,7 @@
 }
 
 .author {
-	position: fixed;
+	position: absolute;
 	display: inline-block;
 	font-size: 13px;
 	left: 50%; 
